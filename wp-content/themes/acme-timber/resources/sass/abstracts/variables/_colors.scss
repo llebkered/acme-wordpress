@@ -1,0 +1,31 @@
+:root {
+    --color-text: #222222;
+    --bg: #eee;
+    --glaucous: #6484a4ff;
+    --alice-blue: #ebf2faff;
+    --shiny-shamrock: #4c9f70ff;
+    --smoky-black: #0b0500ff;
+    --eerie-black: #201e1fff;
+    --white: #EEE;
+}
+
+$color__background-body: var(--bg);
+$color__background-screen: var(--bg);
+$color__background-hr: #ccc;
+$color__background-button: var(--bg);
+$color__background-pre: #eee;
+$color__background-ins: var(--bg);
+
+$color__text-screen: var(--color-text);
+$color__text-input: var(--color-text);
+$color__text-input-focus: var(--color-text);
+$color__link: var(--color-text);
+$color__link-visited: var(--color-text);
+$color__link-hover: var(--shiny-shamrock);
+$color__text-main: var(--color-text); 
+
+$color__border-button: #ccc #ccc #bbb;
+$color__border-button-hover: #ccc #bbb #aaa;
+$color__border-button-focus: #aaa #bbb #bbb;
+$color__border-input: #ccc;
+$color__border-abbr: #666;

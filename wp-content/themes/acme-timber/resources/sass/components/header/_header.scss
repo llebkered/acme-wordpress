@@ -1,0 +1,11 @@
+.header {
+    background-color: var(--glaucous);
+    color: white;
+    a {
+        color: #fff;
+    }
+    .container {
+        display: flex;
+        justify-content: space-between;
+    }
+}
