@@ -1,33 +1,33 @@
 // header
-@import "header/header";
-@import "footer/footer";
+@import "header";
+@import "footer";
 
 
 /* Navigation
 --------------------------------------------- */
-@import "navigation/navigation";
+@import "navigation";
 
 /* Posts and pages
 --------------------------------------------- */
-@import "content/posts-and-pages";
-@import "article/article";
+@import "posts-and-pages";
+@import "article";
 
 /* Comments
 --------------------------------------------- */
-@import "comments/comments";
+@import "comments";
 
 /* Widgets
 --------------------------------------------- */
-@import "widgets/widgets";
+@import "widgets";
 
 /* Media
 --------------------------------------------- */
-@import "media/media";
+@import "media";
 
 /* Captions
 --------------------------------------------- */
-@import "media/captions";
+@import "captions";
 
 /* Galleries
 --------------------------------------------- */
-@import "media/galleries";
+@import "galleries";
